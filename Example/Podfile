@@ -1,0 +1,6 @@
+use_frameworks!
+target 'YJHMyCategory_Tests' do
+  pod 'YJHMyCategory', :path => '../'
+  
+  
+end
